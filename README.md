@@ -1,4 +1,4 @@
-<hr>Write a program in C to count the frequency of each element of an array.</hr><br>
+<h><b> <strong> Write a program in C to count the frequency of each element of an array. </strong> </b></h><br>
 Test Data :<br>
 Input the number of elements to be stored in the array :3<br>
 Input 3 elements in the array :<br>
